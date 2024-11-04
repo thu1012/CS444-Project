@@ -1,0 +1,9 @@
+ecxperiment 
+
+1. finerune 
+2. linear prob
+
+
+norm or not norm?
+
+data augement? 
